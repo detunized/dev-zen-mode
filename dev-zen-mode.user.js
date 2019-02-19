@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         DEV Zen mode
-// @namespace    http://tampermonkey.net/
-// @version      0.1
 // @description  Disable noise for zen reading (press Shift+Z to toggle)
 // @author       detunized
+// @copyright    2019, detunized (https://detunized.net)
+// @license      MIT
+// @homepageURL  https://github.com/detunized/dev-zen-mode
+// @version      0.1
 // @match        https://dev.to/*
-// @grant        none
 // ==/UserScript==
 
 (function() {
