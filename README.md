@@ -13,6 +13,6 @@ for details.
 
 [dev]: https://dev.to
 [blog]: https://detunized.net/posts/2019-02-19-dev-zen-mode-userscript/
-[dev-blog]: https://dev.to/?
+[dev-blog]: https://dev.to/detunized/dev-zen-mode-userscript-12bd
 [mit]: http://www.opensource.org/licenses/mit-license.php
 [license]: LICENSE
